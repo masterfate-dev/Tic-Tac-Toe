@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic tac toe game in puthon
+Tic tac toe game in python
